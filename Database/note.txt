@@ -1,0 +1,4 @@
+Resultset rs=stmt.executeQuery(sql)// when you want to fetch from datanase
+while(rs.nect()){
+    sout(rs.getInt(id))//such you can print value
+}

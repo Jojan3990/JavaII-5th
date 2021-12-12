@@ -1,4 +1,4 @@
-package ClassLearn;
+
 import java.awt.*;
 
 public class FirstWindow extends Frame{
@@ -9,5 +9,6 @@ public class FirstWindow extends Frame{
     }
     public static void main(String[] args) {
         FirstWindow f=new FirstWindow();
+
     }
 }
